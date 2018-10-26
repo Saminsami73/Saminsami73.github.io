@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hireanhacker.com	TRUE	/	FALSE	1999999999	quform_session_348fa0aaa042211a540061fc45e530dc	u38p2xr5eqkbvqKhMXE5278AvGmf89JHxfurL9Ap
+.motivoweb.com	TRUE	/	FALSE	1999999999	__cfduid	d926cb216120e80cb2cd58757543ddb7e1537291945
+.hireanhacker.com	TRUE	/	FALSE	1999999999	__cfduid	d5c032c6e3295f6d464a83d5093d7b1d11537292468
+
